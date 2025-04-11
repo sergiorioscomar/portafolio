@@ -36,6 +36,8 @@ Ofrecer una base limpia, moderna y funcional para mostrar tu perfil, trabajos o 
 
 ![Captura de la landing page](https://portafolio.sergiorios.com.ar/imagenes/trabajos/capturas/screencapture.png)  
 
+![Test SpeedPage en Produccion](https://portafolio.sergiorios.com.ar/imagenes/trabajos/capturas/Screenshot_SpeedPage.jpg)  
+
 ---
 
 ## 📁 Estructura del proyecto
